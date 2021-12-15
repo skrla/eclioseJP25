@@ -1,0 +1,8 @@
+package edunova;
+
+public class E02Varijabla {
+
+	public static void main(String[] args) {
+		
+	}
+}

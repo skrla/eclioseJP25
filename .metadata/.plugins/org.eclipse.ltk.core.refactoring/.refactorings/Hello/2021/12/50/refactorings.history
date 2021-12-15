@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;edunova.Pozdeav&apos; to &apos;Pozdrav&apos;&#x0D;&#x0A;- Original project: &apos;Hello&apos;&#x0D;&#x0A;- Original element: &apos;edunova.Pozdeav&apos;&#x0D;&#x0A;- Renamed element: &apos;edunova.Pozdrav&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pozdeav&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;edunova{Pozdeav.java[Pozdeav" matchStrategy="1" name="Pozdrav" qualified="false" references="true" similarDeclarations="false" stamp="1638819292364" textual="false" version="1.0"/>
+</session>

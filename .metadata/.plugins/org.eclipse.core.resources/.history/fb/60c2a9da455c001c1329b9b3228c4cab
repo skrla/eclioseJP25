@@ -1,0 +1,19 @@
+package edunova;
+
+import javax.swing.JOptionPane;
+
+public class E04_PrimitivniTipoviPodataka {
+	
+	public static void main(String[] args) {
+		
+		byte maliCijeliBroj = Byte.parseByte(
+				JOptionPane.showInputDialog("Unesi broj id -128 do 127")
+				);
+
+		byte drugi = (byte)(maliCijeliBroj + 100);
+		
+		System.out.println(drugi);
+		
+	}
+
+}

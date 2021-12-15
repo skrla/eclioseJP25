@@ -1,0 +1,11 @@
+package edunova;
+
+public class E03_Omotaci {
+
+	public static void main(String[] args) {
+		
+		int godine;
+		
+		System.out.println(Integer.MAX_VALUE);
+	}
+}
