@@ -11,16 +11,14 @@ public class Z04 {
 		
 		System.out.println(kvadratura);
 		
-		switch(kvadratura) {
-		case 6500:
-			System.out.println("Nogomet");
-		case 7000:
-			System.out.println("Ragbi");
-			break;
-		case 800:
+		if (7000 <= kvadratura) {
+			System.out.println("Nogomet, ragbi, rukomet");
+		} else if((6500 <= kvadratura) && (kvadratura < 7000)) {
+			System.out.println("Nogomet, rukomet");
+		} else if((800 <= kvadratura) && (kvadratura < 6500)) {
 			System.out.println("Rukomet");
-			break;
-		}		
-				
-	}
+		} else {
+			System.out.println("Ništa");
+		}
+}
 }
