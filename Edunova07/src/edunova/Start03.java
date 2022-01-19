@@ -20,7 +20,4 @@ public class Start03 {
 		new Start03();
 	}
 	
-	private void tt() {
-		
-	}
 }
