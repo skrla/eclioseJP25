@@ -15,7 +15,6 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="edunova.E04_TipPodatkaBezParametara"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="edunova.Unos"/>
     <fullyQualifiedTypeName name="edunova.Racun"/>
@@ -23,14 +22,22 @@
     <fullyQualifiedTypeName name="edunova.ZivotniVijekObjekta"/>
     <fullyQualifiedTypeName name="edunova.JavaSDKKlase"/>
     <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
-    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="edunova.Osoba"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="edunova.Trokut"/>
     <fullyQualifiedTypeName name="edunova.Dokument"/>
-    <fullyQualifiedTypeName name="edunova.Polaznik"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="edunova.Polaznik"/>
+    <fullyQualifiedTypeName name="edunova.Predavac"/>
+    <fullyQualifiedTypeName name="edunova.Osoba"/>
+    <fullyQualifiedTypeName name="edunova.viseoblicje.Predavac"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.code.Attribute.Array"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="edunova.program.Unos"/>
+    <fullyQualifiedTypeName name="edunova.program.Mobitel"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
 </qualifiedTypeNameHistroy>
