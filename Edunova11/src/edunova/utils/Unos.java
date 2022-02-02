@@ -1,4 +1,4 @@
-package edunova.program;
+package edunova.utils;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
@@ -61,5 +61,26 @@ public class Unos {
 		return i;
 		}
 	
+	}
+	
+	public static int unesiInt(Scanner ulaz, String poruka, int min, int max) {
+		int i = 0;
+		
+		while (true) {
+			
+		System.out.print(poruka + " ");
+		try {
+		i = Integer.parseInt(ulaz.nextLine());
+		} catch (Exception e) {
+			System.out.println("Unos mora biti broj");
+			continue;
+		}
+		
+		if (i < min || i > max) {
+			System.out.println("Broj mora biti između " + min + "i " + max);
+			continue;
+		}
+		return i;
+		}
 	}
 }
